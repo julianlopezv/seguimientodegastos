@@ -8,6 +8,8 @@ $title = 'My App de Gastos';
 <title><? echo $title; ?></title>
 </head>
 <body>
-Welcome!!
+<h1>Welcome!!</h1>
+<br>
+<h2>Julián López</h2>
 </body>
 </html>
